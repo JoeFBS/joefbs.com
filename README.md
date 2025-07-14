@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Joe FBS | Brand Scaling Services</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  Joe FBS | Brand Scaling Services
 </head>
 <body class="bg-gray-900 text-white font-sans">
   <header class="bg-gray-950 shadow-md sticky top-0 z-50">
@@ -24,8 +23,9 @@
       Helping creators and businesses grow smarter, not harder. Zero upfront cost — I only get paid when you grow.
     </p>
     <a href="#contact" class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-xl text-lg font-semibold transition">
-      Work With Me
+      Work With Me 
     </a>
+    (https://form.typeform.com/to/mDKK3H44)    </a>
   </section>
 
   <section id="services" class="py-20 px-6 max-w-6xl mx-auto">
@@ -53,17 +53,9 @@
     </p>
   </section>
 
-  <section id="contact" class="py-20 px-6 max-w-xl mx-auto text-center">
-    <h3 class="text-3xl font-bold mb-6">Let’s Scale Your Brand</h3>
-    <form class="space-y-5">
-      <input type="text" placeholder="Your Name" class="w-full px-4 py-3 rounded-xl bg-gray-800 text-white border border-gray-700 focus:outline-none" />
-      <input type="email" placeholder="Your Email" class="w-full px-4 py-3 rounded-xl bg-gray-800 text-white border border-gray-700 focus:outline-none" />
-      <textarea placeholder="Tell me about your project..." rows="4" class="w-full px-4 py-3 rounded-xl bg-gray-800 text-white border border-gray-700 focus:outline-none"></textarea>
-      <button type="submit" class="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl text-white font-semibold">
-        Send Message
-      </button>
-    </form>
-  </section>
+Contact me @:
+joem.fbs@gmail.com
+(765)993-3282
 
   <footer class="bg-black py-6 text-center text-gray-500 text-sm">
     © 2025 Joe FBS. All rights reserved.
