@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head> 
-  <meta name="google-site-verification" content="VLhQsuN9PLwbyJ3HvEgaRQ3_TSaiPDAj7ctuO3PKF0s" />  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   Joe FBS | Brand Scaling Services
 </head>
 <body class="bg-gray-900 text-white font-sans">
